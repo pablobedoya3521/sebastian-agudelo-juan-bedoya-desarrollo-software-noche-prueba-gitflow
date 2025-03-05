@@ -9,10 +9,6 @@ public class Inventario{
     }
     public void metodoC(){
         System.out.println("Ejecutando metodo C");
-
-
-    public void metodoA(){
-        System.out.println("Ejecutando metodo A");
     }
 
     public void metodoD(){
